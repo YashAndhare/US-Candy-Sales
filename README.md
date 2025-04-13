@@ -68,6 +68,3 @@ This analysis highlights actionable strategies to improve candy sales in Canada 
 - Develop **interactive dashboards** for real-time performance monitoring  
 - Appoint a high-visibility brand ambassador like **Jimmy "MrBeast" Donaldson** to increase visibility and consumer trust
 
----
-
-Let me know if you'd like a markdown version for GitHub or need help embedding the charts!
